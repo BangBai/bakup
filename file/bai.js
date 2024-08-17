@@ -1,0 +1,3 @@
+{
+	"name": "baiBot Multi Device "
+}
